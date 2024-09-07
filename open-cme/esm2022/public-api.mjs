@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of open-cme
+ */
+export * from './lib/open-cme.service';
+export * from './lib/open-cme.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL29wZW4tY21lL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBvcGVuLWNtZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL29wZW4tY21lLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvb3Blbi1jbWUuY29tcG9uZW50JztcbiJdfQ==
